@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631252301215",
+    "project_id": "zenon1",
+    "storage_bucket": "zenon1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631252301215:android:c67533a1b5f52f952039aa",
+        "android_client_info": {
+          "package_name": "com.example.zenon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631252301215-qbueuqbik4pap0ijvcg25g4efrnagqlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zenon",
+            "certificate_hash": "bd88ca628646ee286f9fb34500c8aeaadb5c1029"
+          }
+        },
+        {
+          "client_id": "631252301215-pd89sjqaj20ee3m2cd2dg0461ntfmonn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy4CrTMIva4a5XCkGuNy8in_QqtqZ5Svw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631252301215-pd89sjqaj20ee3m2cd2dg0461ntfmonn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,112 @@
+Date : 2021-06-28 02:42:55
+Directory : g:\flutter_test\zenon\lib
+Total : 58 files,  9133 codes, 1035 comments, 1179 blanks, all 11347 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         58 |      9,133 |      1,035 |      1,179 |     11,347 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                          | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                             |         58 |      9,133 |      1,035 |      1,179 |     11,347 |
+| layout                                                                                        |          4 |      1,589 |        188 |        185 |      1,962 |
+| layout\home_cubit                                                                             |          2 |        490 |         84 |        145 |        719 |
+| models                                                                                        |          9 |        658 |         14 |        111 |        783 |
+| modules                                                                                       |         31 |      6,116 |        721 |        734 |      7,571 |
+| modules\by_me_user                                                                            |          7 |      1,506 |         99 |        208 |      1,813 |
+| modules\by_me_user\by_me_cubit                                                                |          3 |        361 |         16 |         96 |        473 |
+| modules\by_me_user\nfc_barCode_red_write                                                      |          2 |        846 |         76 |         77 |        999 |
+| modules\cart                                                                                  |          5 |        680 |         22 |         66 |        768 |
+| modules\cart\cubit                                                                            |          2 |        105 |          7 |         33 |        145 |
+| modules\catigories                                                                            |          4 |        379 |        191 |         35 |        605 |
+| modules\catigories\inner_screens                                                              |          3 |        321 |        185 |         30 |        536 |
+| modules\favourites                                                                            |          2 |        777 |        100 |         68 |        945 |
+| modules\login                                                                                 |          3 |        441 |         84 |         66 |        591 |
+| modules\login\login_cubit                                                                     |          2 |        176 |         24 |         48 |        248 |
+| modules\on_boarding                                                                           |          1 |        161 |         13 |         15 |        189 |
+| modules\products                                                                              |          2 |        955 |        129 |         81 |      1,165 |
+| modules\search                                                                                |          3 |        167 |          4 |         53 |        224 |
+| modules\search\search_cubit                                                                   |          2 |         65 |          2 |         31 |         98 |
+| modules\settings                                                                              |          1 |        428 |         23 |         55 |        506 |
+| modules\sign_up                                                                               |          3 |        622 |         56 |         87 |        765 |
+| modules\sign_up\sign_up_cubit                                                                 |          2 |        223 |         18 |         59 |        300 |
+| shared                                                                                        |         11 |        604 |         61 |        106 |        771 |
+| shared\components                                                                             |          3 |        360 |         23 |         44 |        427 |
+| shared\cubbit                                                                                 |          2 |          0 |          0 |          2 |          2 |
+| shared\cubit_observe                                                                          |          1 |         33 |          0 |          6 |         39 |
+| shared\network                                                                                |          3 |         96 |         16 |         29 |        141 |
+| shared\network\local                                                                          |          1 |         24 |         11 |         13 |         48 |
+| shared\network\remote                                                                         |          2 |         72 |          5 |         16 |         93 |
+| shared\network\remote\end_points_urls                                                         |          1 |          8 |          1 |          3 |         12 |
+| shared\styles                                                                                 |          2 |        115 |         22 |         25 |        162 |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                      | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| g:\flutter_test\zenon\lib\layout\home_cubit\home_cubit.dart                                   | Dart     |        403 |         84 |         80 |        567 |
+| g:\flutter_test\zenon\lib\layout\home_cubit\home_states.dart                                  | Dart     |         87 |          0 |         65 |        152 |
+| g:\flutter_test\zenon\lib\layout\upload_product_form.dart                                     | Dart     |        907 |         82 |         30 |      1,019 |
+| g:\flutter_test\zenon\lib\layout\zenon_layout.dart                                            | Dart     |        192 |         22 |         10 |        224 |
+| g:\flutter_test\zenon\lib\main.dart                                                           | Dart     |         97 |         49 |         27 |        173 |
+| g:\flutter_test\zenon\lib\main_screen.dart                                                    | Dart     |         39 |          1 |         12 |         52 |
+| g:\flutter_test\zenon\lib\models\cart_model.dart                                              | Dart     |         38 |          0 |          5 |         43 |
+| g:\flutter_test\zenon\lib\models\categories_model.dart                                        | Dart     |         99 |          3 |         16 |        118 |
+| g:\flutter_test\zenon\lib\models\change_favorites_model.dart                                  | Dart     |         10 |          0 |          2 |         12 |
+| g:\flutter_test\zenon\lib\models\favoritites_model.dart                                       | Dart     |         98 |          3 |         20 |        121 |
+| g:\flutter_test\zenon\lib\models\firebase_product_model.dart                                  | Dart     |         76 |          0 |          8 |         84 |
+| g:\flutter_test\zenon\lib\models\firebase_user_model.dart                                     | Dart     |         36 |          1 |          8 |         45 |
+| g:\flutter_test\zenon\lib\models\login_model.dart                                             | Dart     |         45 |          1 |         12 |         58 |
+| g:\flutter_test\zenon\lib\models\products_model.dart                                          | Dart     |        133 |          3 |         24 |        160 |
+| g:\flutter_test\zenon\lib\models\search_model.dart                                            | Dart     |        123 |          3 |         16 |        142 |
+| g:\flutter_test\zenon\lib\modules\by_me_user\by_me_cart_screen.dart                           | Dart     |        143 |          2 |         25 |        170 |
+| g:\flutter_test\zenon\lib\modules\by_me_user\by_me_cubit\by_me_cart_model.dart                | Dart     |         44 |          0 |          6 |         50 |
+| g:\flutter_test\zenon\lib\modules\by_me_user\by_me_cubit\by_me_cubit.dart                     | Dart     |        301 |         16 |         74 |        391 |
+| g:\flutter_test\zenon\lib\modules\by_me_user\by_me_cubit\by_me_stetes.dart                    | Dart     |         16 |          0 |         16 |         32 |
+| g:\flutter_test\zenon\lib\modules\by_me_user\by_me_screen.dart                                | Dart     |        156 |          5 |         10 |        171 |
+| g:\flutter_test\zenon\lib\modules\by_me_user\nfc_barCode_red_write\barcode_screen.dart        | Dart     |        380 |         31 |         30 |        441 |
+| g:\flutter_test\zenon\lib\modules\by_me_user\nfc_barCode_red_write\nfc_screen.dart            | Dart     |        466 |         45 |         47 |        558 |
+| g:\flutter_test\zenon\lib\modules\cart\cart_empty.dart                                        | Dart     |         80 |          1 |          3 |         84 |
+| g:\flutter_test\zenon\lib\modules\cart\cart_fully.dart                                        | Dart     |        363 |         13 |         10 |        386 |
+| g:\flutter_test\zenon\lib\modules\cart\cart_screen.dart                                       | Dart     |        132 |          1 |         20 |        153 |
+| g:\flutter_test\zenon\lib\modules\cart\cubit\cart_cubit.dart                                  | Dart     |         95 |          7 |         26 |        128 |
+| g:\flutter_test\zenon\lib\modules\cart\cubit\cart_states.dart                                 | Dart     |         10 |          0 |          7 |         17 |
+| g:\flutter_test\zenon\lib\modules\catigories\categories_screen.dart                           | Dart     |         58 |          6 |          5 |         69 |
+| g:\flutter_test\zenon\lib\modules\catigories\inner_screens\brands_navigation_rail_screen.dart | Dart     |        225 |          5 |         13 |        243 |
+| g:\flutter_test\zenon\lib\modules\catigories\inner_screens\brands_rail_widget.dart            | Dart     |         96 |          2 |          5 |        103 |
+| g:\flutter_test\zenon\lib\modules\catigories\inner_screens\category_feed_screen.dart          | Dart     |          0 |        178 |         12 |        190 |
+| g:\flutter_test\zenon\lib\modules\favourites\favourite_product_detail_screen.dart             | Dart     |        590 |         90 |         58 |        738 |
+| g:\flutter_test\zenon\lib\modules\favourites\favourites_screen.dart                           | Dart     |        187 |         10 |         10 |        207 |
+| g:\flutter_test\zenon\lib\modules\login\login_cubit\login_cubit.dart                          | Dart     |        141 |         24 |         29 |        194 |
+| g:\flutter_test\zenon\lib\modules\login\login_cubit\login_states.dart                         | Dart     |         35 |          0 |         19 |         54 |
+| g:\flutter_test\zenon\lib\modules\login\login_screen.dart                                     | Dart     |        265 |         60 |         18 |        343 |
+| g:\flutter_test\zenon\lib\modules\on_boarding\on_boarding_screen.dart                         | Dart     |        161 |         13 |         15 |        189 |
+| g:\flutter_test\zenon\lib\modules\products\product_details.dart                               | Dart     |        594 |         91 |         59 |        744 |
+| g:\flutter_test\zenon\lib\modules\products\products_screen.dart                               | Dart     |        361 |         38 |         22 |        421 |
+| g:\flutter_test\zenon\lib\modules\search\search_cubit\cubit.dart                              | Dart     |         47 |          2 |         18 |         67 |
+| g:\flutter_test\zenon\lib\modules\search\search_cubit\states.dart                             | Dart     |         18 |          0 |         13 |         31 |
+| g:\flutter_test\zenon\lib\modules\search\search_screen.dart                                   | Dart     |        102 |          2 |         22 |        126 |
+| g:\flutter_test\zenon\lib\modules\settings\settings_screen.dart                               | Dart     |        428 |         23 |         55 |        506 |
+| g:\flutter_test\zenon\lib\modules\sign_up\sign_up_cubit\sign_up_cubit.dart                    | Dart     |        185 |         18 |         35 |        238 |
+| g:\flutter_test\zenon\lib\modules\sign_up\sign_up_cubit\sign_up_states.dart                   | Dart     |         38 |          0 |         24 |         62 |
+| g:\flutter_test\zenon\lib\modules\sign_up\sign_up_screen.dart                                 | Dart     |        399 |         38 |         28 |        465 |
+| g:\flutter_test\zenon\lib\shared\components\components.dart                                   | Dart     |        317 |         19 |         29 |        365 |
+| g:\flutter_test\zenon\lib\shared\components\constants.dart                                    | Dart     |         20 |          2 |          5 |         27 |
+| g:\flutter_test\zenon\lib\shared\components\show_image_screen.dart                            | Dart     |         23 |          2 |         10 |         35 |
+| g:\flutter_test\zenon\lib\shared\cubbit\cubit.dart                                            | Dart     |          0 |          0 |          1 |          1 |
+| g:\flutter_test\zenon\lib\shared\cubbit\states.dart                                           | Dart     |          0 |          0 |          1 |          1 |
+| g:\flutter_test\zenon\lib\shared\cubit_observe\observe.dart                                   | Dart     |         33 |          0 |          6 |         39 |
+| g:\flutter_test\zenon\lib\shared\network\local\cacheHelper.dart                               | Dart     |         24 |         11 |         13 |         48 |
+| g:\flutter_test\zenon\lib\shared\network\remote\dio_helper.dart                               | Dart     |         64 |          4 |         13 |         81 |
+| g:\flutter_test\zenon\lib\shared\network\remote\end_points_urls\end_points.dart               | Dart     |          8 |          1 |          3 |         12 |
+| g:\flutter_test\zenon\lib\shared\styles\colors.dart                                           | Dart     |         19 |         12 |         16 |         47 |
+| g:\flutter_test\zenon\lib\shared\styles\themes.dart                                           | Dart     |         96 |         10 |          9 |        115 |
+| g:\flutter_test\zenon\lib\user_state.dart                                                     | Dart     |         30 |          1 |          4 |         35 |
+| Total                                                                                         |          |      9,133 |      1,035 |      1,179 |     11,347 |
++-----------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
